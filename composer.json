@@ -1,0 +1,16 @@
+{
+    "name": "boots/type",
+    "type": "boots-extension",
+    "description": "Easily add custom post types.",
+    "keywords": ["boots","wordpress","type","utility"],
+    "homepage": "http://wpboots.com/extensions/metabox",
+    "license": "GPLv2",
+    "authors": [
+        {
+            "name": "M. Kamal Khan",
+            "email": "shout@bhittani.com",
+            "homepage": "http://bhittani.com",
+            "role": "Developer"
+        }
+    ]
+}
